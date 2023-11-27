@@ -25,3 +25,11 @@ Dengan perubahan zaman dan perkembangan teknologi, ini memiliki banyak keuntunga
 pelaporan, login, melacak laporan, menambah, mengedit dan menghapus anggota, dan mengatur ulang kata sandi untuk pelapor. 
 Dengan adanya permasalahan yang ada, maka diperlukan suatu sistem informasi yang mampu mempermudah proses komunikasi dengan pihak yang berwenang, sehingga permasalahan yang timbul dari individu akan segera ditangani oleh pihak yang berwenang.  
 Berdasarkan latar belakang di atas, proposal yang bertujuan percangan dengan judul “APLIKASI E-DUMAS SUKASARI”. Aplikasi ini diharapkan dapat memudahkan instansi Kepolisian setempat terutama di daerah Polsek Sukasari Bandung. 
+
+# Arsitektur Aplikasi
+
+## Diagram BPMN
+Menunjukkan diagram BPMN proses bisnis penerimaan pengaduan masyarakat saat ini. Diagram BPMN ditunjukkan pada gambar. Aktivitas mengisi form pengaduan diperbaiki dengan membuat format form pengaduan dan detail pengaduan serta bagian-bagian yang wajib diisi, sehingga pengguna tidak dapat menyimpan pengaduan jika ada bagian yang belum diisi. Berikut BPMN melakukan pengaduan laporan :
+
+![image](https://github.com/e-dumas-sukasari/jurnal-proyek3/assets/110887408/27b027d3-1f0f-41a4-8319-4e082aca24f4)
+
